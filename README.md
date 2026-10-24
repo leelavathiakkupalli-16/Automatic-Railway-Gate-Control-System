@@ -25,10 +25,17 @@ The Automatic Railway Gate Control System is an electronics and automation proje
 **3. Technologies Used**
 
 1.AT89C51 Microcontroller
+
 2.Embedded C Programming
+
 3.Ultrasonic Sensors (HC-SR04)
+
 4.Servo Motor
+
 5.Buzzer
+
 6.Indicator LEDs
+
 7.Proteus / Wokwi Simulator
+
 8.Repository Structure (Source Code and Project Files)
